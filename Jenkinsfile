@@ -11,7 +11,7 @@ pipeline {
         },
         stage('Run: Code') {
             steps {
-                sh "node index.js'"
+                sh "node index.js"
             }
         }
 
