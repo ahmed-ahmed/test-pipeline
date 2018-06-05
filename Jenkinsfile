@@ -8,7 +8,7 @@ pipeline {
             steps {
                 sh "echo 'checkout step started'"
             }
-        },
+        }
         stage('Run: Code') {
             steps {
                 sh "node index.js"
