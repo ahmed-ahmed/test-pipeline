@@ -1,0 +1,19 @@
+{
+  "name": "test-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-ahmed/test-pipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-ahmed/test-pipeline/issues"
+  },
+  "homepage": "https://github.com/ahmed-ahmed/test-pipeline#readme"
+}
